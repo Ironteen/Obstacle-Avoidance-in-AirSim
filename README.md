@@ -58,7 +58,7 @@ This repository contains Python scripts showing how you can use [Microsoft AirSi
 
 ## show our result
 
-![Obstacle-Avoidance](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/blob/master/img/Obstacle-voidance.gif)
+![Obstacle-Avoidance](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/blob/master/img/Obstacle%20Avoidance.gif)
 
 The average steps in a episode
 
