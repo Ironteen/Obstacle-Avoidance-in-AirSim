@@ -2,7 +2,7 @@
 
 This repository contains Python scripts showing how you can use [Microsoft AirSim](https://github.com/Microsoft/AirSim) to  collect image data from a moving vehicle, then use that data to train the vehicle to avoid obstacles  in TensorFlow. The RL  algorithm we used is D3QN(Double Deep Q Network with Dueling architecture)。
 
-![screenshot](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/img/screenshot.png)
+![screenshot](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/blob/master/img/screenshot.png)
 
 ## Prerequisites
 
@@ -58,7 +58,7 @@ This repository contains Python scripts showing how you can use [Microsoft AirSi
 
 ## show our result
 
-![Obstacle Avoidance](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/img/Obstacle Avoidance.gif)
+![Obstacle-Avoidance](https://github.com/Ironteen/Obstacle-Avoidance-in-AirSim/blob/master/img/Obstacle-voidance.gif)
 
 The average steps in a episode
 
